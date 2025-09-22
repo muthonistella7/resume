@@ -1,1 +1,1 @@
-https://github.com/muthonistella7/resume/blob/master/resume.html
+https://github.com/muthonistella7/resume
